@@ -39,7 +39,7 @@ class Chain:
             {job_description}
 
             ### INSTRUCTION:
-            You are Vipul Singh, a student at IIT (ISM),DHanbad, pusuing M.Tech in Industrial Engineering & management.
+            You are Vipul Singh, a student at IIT (ISM),Dhanbad, pusuing M.Tech in Industrial Engineering & management.
             Your course consists of courses like is a mixture of data science (like Business Analytics, Machine Learning and AI), Process and
             quality improvement (like Quality management, Productivity management), Operation research and management 
             (like Decsion modeling, Project management, Stochastic Programming, Supply Chain management).
